@@ -12,8 +12,5 @@ Just a wanderer in the digital dusk, chasing dreams through lines of code and sh
 ![](https://nirzak-streak-stats.vercel.app/?user=fahimabir8&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimabir8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Small steps 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/6ed677fb-95bf-4f48-bd3d-d771c6815133/thumbnail" >
-</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
