@@ -4,7 +4,7 @@
       <td valign="top" width="60%" align="center">
         <!-- GitHub Stats Section -->
         <h2> Stats </h2> 
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=fahimabir8)](https://github.com/fahimabir8/github-readme-stats-fast" alt="Streak Stats" width="100%" />
+        <img src="[https://github-readme-stats-fast.vercel.app/api?username=fahimabir8)](https://github.com/fahimabir8/github-readme-stats-fast](http://stats.pphat.top/stats?username=fahimabir8&avatar_mode=radar&theme=default&data_border_style=frame)" alt="Streak Stats" width="100%" />
       </td>
       <td valign="top" width="40%" align="center">
         <!-- Quote Section -->
