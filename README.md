@@ -45,4 +45,4 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimabir8&theme=monokai)
+![](http://stats.pphat.top/stats?username=fahimabir8&avatar_mode=radar&theme=onedark&data_border_style=solid)
